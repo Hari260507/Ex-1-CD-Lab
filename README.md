@@ -1,7 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number :212224040095
 # NAME HAREKRISHNAA M
-# Date : 01/09/2025
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
